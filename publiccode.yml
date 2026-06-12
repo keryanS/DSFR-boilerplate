@@ -24,19 +24,17 @@ description:
       - Mise en conformité avec la charte de l'État
       - Responsive et compatible avec les principaux navigateurs
     longDescription: |
-      Lec Système de Design de l'État (ci-après, le **DSFR**) est un ensemble de composants web HTML, CSS et Javascript pour faciliter le travail des équipes projets des sites Internet publics, et créer des interfaces numériques de qualité et accessibles.
+      Le Système de Design de l'État (ci-après, le **DSFR**) est un ensemble de composants web HTML, CSS et Javascript pour faciliter le travail des équipes projets des sites Internet publics, et créer des interfaces numériques de qualité et accessibles.
 
       L'outil est développé, maintenu et géré par le [Service d'Information du Gouvernement (SIG)](https://www.info.gouv.fr/organisation/service-d-information-du-gouvernement-sig).
 
       Son utilisation par les administrations est soumise à une demande d'agrément et requiert un domaine en `.gouv.fr`.
-
-legal:
-  license: etalab-2.0
-maintenance:
   contacts:
     - name: Maxime Beaugrand
       email: maxime.beaugrand@pm.gouv.fr
       affiliation: Service d'Information du Gouvernement
+legal:
+  license: etalab-2.0
 intendedAudience:
   scope:
     - science-and-technology
